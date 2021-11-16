@@ -1,4 +1,3 @@
 (Y) [[Real]] Gross Domestic Product
 
-[[Constant Dollar]] 
-[[Base Year]]
+RGDP - [[Constant Dollar]] = Current Quantity * [[Base Year]] Price

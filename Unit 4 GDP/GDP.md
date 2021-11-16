@@ -33,8 +33,8 @@ When levels of Output fall the labor required will decrease, and Unemployment wi
 
 When levels of Output increase the labor required will rise and Unemployment would decrease
 
-RGDP ↑ UE ↓ 
-RGDP ↓ UE ↑
+[[RGDP]] ↑ UE ↓ 
+[[RGDP]] ↓ UE ↑
 
 **What are the two ways of calculating the GDP?**
 
