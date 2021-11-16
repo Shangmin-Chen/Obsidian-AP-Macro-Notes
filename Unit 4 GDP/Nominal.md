@@ -1,0 +1,1 @@
+Nominal is a monetary value expressed in current prices

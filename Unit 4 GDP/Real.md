@@ -1,0 +1,1 @@
+Real is a term used to describe a monetary value that has been adjusted for inflation

@@ -1,0 +1,1 @@
+goods demanded by consumers

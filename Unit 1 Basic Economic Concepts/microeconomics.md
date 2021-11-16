@@ -1,0 +1,1 @@
+the study of decisions made by people and businesses regarding the allocation of resources and prices of goods/services, known as price theory 

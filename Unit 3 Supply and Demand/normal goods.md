@@ -1,0 +1,1 @@
+When a consumer buys a good based on PREFERENCE

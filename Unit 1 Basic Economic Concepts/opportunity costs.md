@@ -1,0 +1,1 @@
+value of highest foregone alternative (every time you make a choice, you lose the opportunity to do something else)

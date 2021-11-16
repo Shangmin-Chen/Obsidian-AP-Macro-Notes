@@ -1,0 +1,1 @@
+**(Yf)** Long Run Aggregated Supply (full potential output); LRAS has all attributes of [[Production Possibilities Curve]]

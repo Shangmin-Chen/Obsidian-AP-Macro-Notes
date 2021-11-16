@@ -1,0 +1,1 @@
+Absolute advantage refers to the ability to produce more or better goods and services than somebody else.

@@ -1,0 +1,1 @@
+Need: limited resources: food, shelter, clothing, education, communication, recreation, transportation

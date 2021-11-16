@@ -1,0 +1,1 @@
+Not included in the [[GDP]] (to prevent double counting). ex: materials to build a house

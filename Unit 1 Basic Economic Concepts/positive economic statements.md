@@ -1,0 +1,1 @@
+(keywords: is, will): makes a claim about how the world IS 

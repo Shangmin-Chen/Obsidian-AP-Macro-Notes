@@ -1,0 +1,1 @@
+Included in the [[GDP]]. ex: a house

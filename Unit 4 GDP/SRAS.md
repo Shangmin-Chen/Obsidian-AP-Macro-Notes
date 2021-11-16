@@ -1,0 +1,1 @@
+Short Run Aggregated Supply (current output)

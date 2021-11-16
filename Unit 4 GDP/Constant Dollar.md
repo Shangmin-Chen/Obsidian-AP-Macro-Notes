@@ -1,0 +1,1 @@
+is an adjusted value of currencies to compare dollar values from one period to another. Constant dollar can be used for multiple calculations. For example, it can be used to calculate growth in economic indicators, such as GDP.

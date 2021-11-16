@@ -1,0 +1,1 @@
+When a consumer buys a good because it is less expensive
