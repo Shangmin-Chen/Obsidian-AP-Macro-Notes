@@ -1,0 +1,1 @@
+A fixed list of commonly purchased items used to track inflation

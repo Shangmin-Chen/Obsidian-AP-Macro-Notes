@@ -1,0 +1,1 @@
+Unemployment due to recession

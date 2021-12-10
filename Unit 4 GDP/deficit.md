@@ -1,0 +1,1 @@
+When you're spending more than you recieve
