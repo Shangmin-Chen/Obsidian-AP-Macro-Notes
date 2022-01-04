@@ -4,9 +4,9 @@ if money in > money out || **Surplus (IDEAL)**
 
 if money in == money out || ** Balance**
 
-if money in < money out || **Deficit**
+if money in < money out || **[[deficit]]**
 
-DEFICIT SPENDING -> BORROWING
+[[deficit]] SPENDING -> BORROWING
 
 1) ISSUE BONDS -> 2. FED -> 3. Finacial Institute -> Sell Bonds to Public
 

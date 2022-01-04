@@ -10,6 +10,7 @@ Keynesian-fast
 				- Savings Increase which makes the impact less than gov spending.
 				- Achieves our goal, GDP increase because of Income Increase and Consumer Spending Increase
 	- **Monetary: Federal Reserve**
+		- pass
 ***Contrationary FIXES INFLATION*** 
 	- 	- **Fiscal: Government**
 		- Government spending decrease (More Effective, Impactful)
@@ -21,3 +22,4 @@ Keynesian-fast
 				- Savings decrease which makes the impact less than gov spending.
 				- Achieves our goal, GDP decrease because of Income decrease and Consumer Spending decrease
 	- **Monetary: Federal Reserve**
+		- pass

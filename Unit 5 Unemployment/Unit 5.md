@@ -11,3 +11,7 @@ keynesian economy - hands on, it works for the moment not the future, social, it
 when economy is depressed, you SHOULDN'T increase gov spending, because its bad for the long run, but its better for the short run to temporary increase GDP and decrease UE
 
 [[Take Policy Action]]
+
+[[Related Charts]]
+
+[[deficit]] spending
